@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tahdahluch.wxxwwx98.cn/sitemap.xml
